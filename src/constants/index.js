@@ -24,7 +24,7 @@ export const features = [
     id: "1",
     icon: bitcoinlogo,
     title: "Change your stocks back to Crypto at any time ",
-    content: "Turn any stock you own into Bitcoin or Ethereum in the blink of an eye.",
+    content: "Turn any stock you own into Bitcoin or Ether in the blink of an eye.",
   },
   {
     id: "2",
